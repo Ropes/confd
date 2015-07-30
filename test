@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
 
+GO="godep go"
+
+
 echo "Running tests..."
-gb test
+$GO test --cover --race ./...
