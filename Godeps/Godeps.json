@@ -12,27 +12,27 @@
 			"Rev": "cdd90c38c6e3718c731b555b9c3ed1becebec3ba"
 		},
 		{
-			"ImportPath": "github.com/awslabs/aws-sdk-go/aws",
+			"ImportPath": "github.com/aws/aws-sdk-go/aws",
 			"Rev": "d67a47db2971c58a865e3ed3d5d4ee317477ac10"
 		},
 		{
-			"ImportPath": "github.com/awslabs/aws-sdk-go/internal/endpoints",
+			"ImportPath": "github.com/aws/aws-sdk-go/internal/endpoints",
 			"Rev": "d67a47db2971c58a865e3ed3d5d4ee317477ac10"
 		},
 		{
-			"ImportPath": "github.com/awslabs/aws-sdk-go/internal/protocol/json/jsonutil",
+			"ImportPath": "github.com/aws/aws-sdk-go/internal/protocol/json/jsonutil",
 			"Rev": "d67a47db2971c58a865e3ed3d5d4ee317477ac10"
 		},
 		{
-			"ImportPath": "github.com/awslabs/aws-sdk-go/internal/protocol/jsonrpc",
+			"ImportPath": "github.com/aws/aws-sdk-go/internal/protocol/jsonrpc",
 			"Rev": "d67a47db2971c58a865e3ed3d5d4ee317477ac10"
 		},
 		{
-			"ImportPath": "github.com/awslabs/aws-sdk-go/internal/signer/v4",
+			"ImportPath": "github.com/aws/aws-sdk-go/internal/signer/v4",
 			"Rev": "d67a47db2971c58a865e3ed3d5d4ee317477ac10"
 		},
 		{
-			"ImportPath": "github.com/awslabs/aws-sdk-go/service/dynamodb",
+			"ImportPath": "github.com/aws/aws-sdk-go/service/dynamodb",
 			"Rev": "d67a47db2971c58a865e3ed3d5d4ee317477ac10"
 		},
 		{
