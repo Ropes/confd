@@ -4,4 +4,4 @@ GO="godep go"
 
 
 echo "Running tests..."
-$GO test --cover --race ./...
+$GO test --cover --race `go list -e ./... | grep -v vendor`
